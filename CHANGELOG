@@ -1,0 +1,2 @@
+22.04.2025:
+    - Added Dockerfiles for flask backend and mysql database docker images
